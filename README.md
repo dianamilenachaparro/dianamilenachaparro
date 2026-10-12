@@ -63,6 +63,12 @@ Mi experiencia previa me dio una base sólida en algo que el software necesita: 
 - **Visión de producto:** emprendo mi propio negocio de impresión 3D, donde diseño, fabrico y gestiono clientes de punta a punta.
 - **Dominio del sector salud:** conozco la normativa y los procesos de acreditación en salud, un nicho donde el software hace una gran diferencia.
 
+## My GitHub Stats
+
+<a href="http://www.github.com/dianamilenachaparro"><img src="https://github-readme-stats.vercel.app/api?username=dianamilenachaparro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dianamilenachaparro's GitHub stats" /></a>
+
+<a href="https://github.com/dianamilenachaparro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianamilenachaparro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ## 📫 Contacto
 
 - 💼 LinkedIn: [linkedin.com/in/dianamilenach](https://www.linkedin.com/in/dianamilenach)
