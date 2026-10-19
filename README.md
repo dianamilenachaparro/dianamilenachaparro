@@ -8,6 +8,12 @@
 
 </div>
 
+<div align="center">
+<a href="https://github.com/dianamilenachaparro">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Diana+-+Software+Developer+%26+Tech+Enthusiast;Python+%2F+Automation+%2F+N8N;Building+innovative+solutions+with+code" alt="typing banner">
+</a>
+</div>
+
 ---
 
 ## 🧭 Sobre mí
@@ -15,6 +21,7 @@
 Soy ingeniera biomédica con especialización en Machine Learning, y estoy estudiando desarrollo de software en **Campusland** para llevar mi perfil técnico al siguiente nivel.
 
 Mi experiencia previa me dio una base sólida en algo que el software necesita: **entender un problema real antes de escribir código**. Trabajé gestionando un inventario grande de equipos biomédicos, donde construí sistemas de automatización que reemplazaron procesos manuales y redujeron errores. Hoy aplico esa misma mentalidad a proyectos de software de principio a fin.
+
 
 ## 🎯 En qué me estoy enfocando
 
@@ -64,10 +71,12 @@ Mi experiencia previa me dio una base sólida en algo que el software necesita: 
 - **Dominio del sector salud:** conozco la normativa y los procesos de acreditación en salud, un nicho donde el software hace una gran diferencia.
 
 ## My GitHub Stats
-
+<div align="center">
 <a href="http://www.github.com/dianamilenachaparro"><img src="https://github-readme-stats.vercel.app/api?username=dianamilenachaparro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dianamilenachaparro's GitHub stats" /></a>
 
 <a href="https://github.com/dianamilenachaparro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianamilenachaparro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+
 
 ## 📫 Contacto
 
